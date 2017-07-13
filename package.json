@@ -1,0 +1,16 @@
+{
+  "name": "webpack-academy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SeanCox/webpack-academy.git",
+  "author": "Sean Cox",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
+  "devDependencies": {
+    "file-loader": "^0.11.2",
+    "webpack": "^3.2.0"
+  }
+}
